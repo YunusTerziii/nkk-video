@@ -1,0 +1,31 @@
+1
+00:00:00,050 --> 00:00:02,690
+Yeni atanan bir öğretmen, ayda eline kaç
+
+2
+00:00:02,730 --> 00:00:05,805
+lira alıyor? Ders, nöbet, bir de sınav
+
+3
+00:00:05,858 --> 00:00:09,433
+kâğıtları. Tahmin et: A mı, B mi, C mi?
+
+4
+00:00:09,662 --> 00:00:13,113
+Temmuz 2026 tablolarına göre, ek ders
+
+5
+00:00:13,161 --> 00:00:16,713
+hariç net maaş yaklaşık 63 ile 73 bin
+
+6
+00:00:16,753 --> 00:00:19,273
+lira. En üst derecedeki öğretmen ise
+
+7
+00:00:19,353 --> 00:00:20,953
+yaklaşık 83 bin alıyor.
+
+8
+00:00:21,342 --> 00:00:23,783
+Peki bu emeğe bu maaş yeter mi?

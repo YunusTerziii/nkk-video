@@ -1,0 +1,31 @@
+1
+00:00:00,050 --> 00:00:02,690
+Yangına koşan bir itfaiye eri, ayda kaç
+
+2
+00:00:02,730 --> 00:00:06,380
+lira alıyor? Yangın, deprem, kaza; çağrı
+
+3
+00:00:06,420 --> 00:00:08,460
+gelince ilk onlar yola çıkıyor.
+
+4
+00:00:09,100 --> 00:00:12,460
+Sence kaç? Temmuz 2026 katsayılarına göre
+
+5
+00:00:12,588 --> 00:00:15,340
+yeni başlayan itfaiye erinin net maaşı
+
+6
+00:00:15,420 --> 00:00:16,860
+yaklaşık 70 bin lira.
+
+7
+00:00:17,540 --> 00:00:20,461
+25 yıl çalışsa bile 76 bin civarında
+
+8
+00:00:20,521 --> 00:00:23,741
+kalıyor. Peki bu maaş, bu riske değer mi?

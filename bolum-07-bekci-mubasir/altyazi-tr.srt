@@ -1,0 +1,31 @@
+1
+00:00:00,050 --> 00:00:01,970
+Gece sokakları kollayan bir bekçi mi,
+
+2
+00:00:02,270 --> 00:00:04,610
+mahkemede adınızı okuyan bir mübaşir mi?
+
+3
+00:00:05,217 --> 00:00:06,897
+İkisi de yeni başlayan memur.
+
+4
+00:00:07,377 --> 00:00:09,377
+Peki hangisi daha çok kazanıyor?
+
+5
+00:00:09,594 --> 00:00:13,265
+Temmuz 2026 katsayılarına göre net maaşta
+
+6
+00:00:13,318 --> 00:00:15,345
+mübaşir yaklaşık 70 bin lira.
+
+7
+00:00:15,605 --> 00:00:19,287
+Bekçi ise yaklaşık 74 ile 75 bin lira.
+
+8
+00:00:19,631 --> 00:00:22,611
+Sence bu iki işten hangisi daha zor?

@@ -1,0 +1,31 @@
+1
+00:00:00,050 --> 00:00:03,010
+Bugün bir hamburgerci açsan ayda kaç para
+
+2
+00:00:03,050 --> 00:00:05,565
+kalır? Açılış 360 bin lira.
+
+3
+00:00:05,771 --> 00:00:09,565
+Burgerin malzemesi 145, satışı 350 lira;
+
+4
+00:00:09,845 --> 00:00:14,044
+günde 60 tane. Kira, iki çalışan, malzeme,
+
+5
+00:00:14,148 --> 00:00:15,805
+enerji, kurye komisyonu.
+
+6
+00:00:16,152 --> 00:00:18,445
+Cebe kalan yaklaşık 47 bin.
+
+7
+00:00:18,829 --> 00:00:21,285
+Kurye komisyonu, kârından fazla.
+
+8
+00:00:21,649 --> 00:00:24,126
+Sence sorun hamburgerin fiyatı mı?
